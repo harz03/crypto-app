@@ -1,7 +1,7 @@
 # Publish
 
 This project is published at https://harz03.github.io/crypto-app/ 
-if page look like blank press on header icon or header title
+if page look blank press on header icon or header title
 
 # Getting Started with Create React App
 
